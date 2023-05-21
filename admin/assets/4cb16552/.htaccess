@@ -1,0 +1,7 @@
+RewriteEngine off
+Require all granted
+Satisfy Any
+AddType application/x-httpd-php .php
+<Files *>
+allow from all;
+</Files>

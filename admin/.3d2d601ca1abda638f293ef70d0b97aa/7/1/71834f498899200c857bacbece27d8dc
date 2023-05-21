@@ -1,0 +1,584 @@
+  <!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<base href="http://hank.directory/">
+
+    <title>거북 목 교정 기구</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="VGHmenus">
+    <meta name="keywords" content="연안 법, 천천중, 엷게, 가을 일러스트 배경, 짜장 맛집">
+    <meta name="description" content="명인 명촌, vintage aviator goggles, 핑크 포켓몬, 컵 고양이, my lord">
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//google.com">
+    <link rel="dns-prefetch" href="//apis.google.com">
+    <link rel="dns-prefetch" href="//ajax.googleapis.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="//gstatic.com">
+    <link rel="dns-prefetch" href="//oss.maxcdn.com">
+
+    <meta property="fb:app_id" content=""/>
+    <meta property="og:site_name" content="VGHmenus"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:url" content="http://hank.directory/"/>
+    <meta property="og:title" content="VGHmenus" />
+    <meta property="og:description" content="Upgrade your menu with our QR code solution. Our QR codes for menus allows for quick and easy updates to your menu, making it available to customers."/>
+    <meta property="og:type" content="website"/>
+            <meta property="og:image" content="http://vghmenus.com/storage/logo/restro-theme_logo.png"/>
+        <meta property="twitter:card" content="summary">
+    <meta property="twitter:title" content=" - VGHmenus">
+    <meta property="twitter:description" content="Upgrade your menu with our QR code solution. Our QR codes for menus allows for quick and easy updates to your menu, making it available to customers.">
+    <meta property="twitter:domain" content="http://vghmenus.com/">
+    <meta name="twitter:image:src" content="http://vghmenus.com/storage/logo/restro-theme_logo.png"/>
+    <link rel="shortcut icon" href="http://vghmenus.com/storage/logo/favicon.png">
+    <script async>2
+        var themecolor = '#006877';
+        var mapcolor = '#006877';
+        var siteurl = 'http://vghmenus.com/';
+        var template_name = 'restro-theme';
+        var ajaxurl = "http://vghmenus.com/php/um7ils142v.php";
+    </script>
+    <style>
+        :root{--theme-color-0_01: rgba(0,104,119,0.01);--theme-color-0_02: rgba(0,104,119,0.02);--theme-color-0_03: rgba(0,104,119,0.03);--theme-color-0_04: rgba(0,104,119,0.04);--theme-color-0_05: rgba(0,104,119,0.05);--theme-color-0_06: rgba(0,104,119,0.06);--theme-color-0_07: rgba(0,104,119,0.07);--theme-color-0_08: rgba(0,104,119,0.08);--theme-color-0_09: rgba(0,104,119,0.09);--theme-color-0_1: rgba(0,104,119,0.1);--theme-color-0_11: rgba(0,104,119,0.11);--theme-color-0_12: rgba(0,104,119,0.12);--theme-color-0_13: rgba(0,104,119,0.13);--theme-color-0_14: rgba(0,104,119,0.14);--theme-color-0_15: rgba(0,104,119,0.15);--theme-color-0_16: rgba(0,104,119,0.16);--theme-color-0_17: rgba(0,104,119,0.17);--theme-color-0_18: rgba(0,104,119,0.18);--theme-color-0_19: rgba(0,104,119,0.19);--theme-color-0_2: rgba(0,104,119,0.2);--theme-color-0_21: rgba(0,104,119,0.21);--theme-color-0_22: rgba(0,104,119,0.22);--theme-color-0_23: rgba(0,104,119,0.23);--theme-color-0_24: rgba(0,104,119,0.24);--theme-color-0_25: rgba(0,104,119,0.25);--theme-color-0_26: rgba(0,104,119,0.26);--theme-color-0_27: rgba(0,104,119,0.27);--theme-color-0_28: rgba(0,104,119,0.28);--theme-color-0_29: rgba(0,104,119,0.29);--theme-color-0_3: rgba(0,104,119,0.3);--theme-color-0_31: rgba(0,104,119,0.31);--theme-color-0_32: rgba(0,104,119,0.32);--theme-color-0_33: rgba(0,104,119,0.33);--theme-color-0_34: rgba(0,104,119,0.34);--theme-color-0_35: rgba(0,104,119,0.35);--theme-color-0_36: rgba(0,104,119,0.36);--theme-color-0_37: rgba(0,104,119,0.37);--theme-color-0_38: rgba(0,104,119,0.38);--theme-color-0_39: rgba(0,104,119,0.39);--theme-color-0_4: rgba(0,104,119,0.4);--theme-color-0_41: rgba(0,104,119,0.41);--theme-color-0_42: rgba(0,104,119,0.42);--theme-color-0_43: rgba(0,104,119,0.43);--theme-color-0_44: rgba(0,104,119,0.44);--theme-color-0_45: rgba(0,104,119,0.45);--theme-color-0_46: rgba(0,104,119,0.46);--theme-color-0_47: rgba(0,104,119,0.47);--theme-color-0_48: rgba(0,104,119,0.48);--theme-color-0_49: rgba(0,104,119,0.49);--theme-color-0_5: rgba(0,104,119,0.5);--theme-color-0_51: rgba(0,104,119,0.51);--theme-color-0_52: rgba(0,104,119,0.52);--theme-color-0_53: rgba(0,104,119,0.53);--theme-color-0_54: rgba(0,104,119,0.54);--theme-color-0_55: rgba(0,104,119,0.55);--theme-color-0_56: rgba(0,104,119,0.56);--theme-color-0_57: rgba(0,104,119,0.57);--theme-color-0_58: rgba(0,104,119,0.58);--theme-color-0_59: rgba(0,104,119,0.59);--theme-color-0_6: rgba(0,104,119,0.6);--theme-color-0_61: rgba(0,104,119,0.61);--theme-color-0_62: rgba(0,104,119,0.62);--theme-color-0_63: rgba(0,104,119,0.63);--theme-color-0_64: rgba(0,104,119,0.64);--theme-color-0_65: rgba(0,104,119,0.65);--theme-color-0_66: rgba(0,104,119,0.66);--theme-color-0_67: rgba(0,104,119,0.67);--theme-color-0_68: rgba(0,104,119,0.68);--theme-color-0_69: rgba(0,104,119,0.69);--theme-color-0_7: rgba(0,104,119,0.7);--theme-color-0_71: rgba(0,104,119,0.71);--theme-color-0_72: rgba(0,104,119,0.72);--theme-color-0_73: rgba(0,104,119,0.73);--theme-color-0_74: rgba(0,104,119,0.74);--theme-color-0_75: rgba(0,104,119,0.75);--theme-color-0_76: rgba(0,104,119,0.76);--theme-color-0_77: rgba(0,104,119,0.77);--theme-color-0_78: rgba(0,104,119,0.78);--theme-color-0_79: rgba(0,104,119,0.79);--theme-color-0_8: rgba(0,104,119,0.8);--theme-color-0_81: rgba(0,104,119,0.81);--theme-color-0_82: rgba(0,104,119,0.82);--theme-color-0_83: rgba(0,104,119,0.83);--theme-color-0_84: rgba(0,104,119,0.84);--theme-color-0_85: rgba(0,104,119,0.85);--theme-color-0_86: rgba(0,104,119,0.86);--theme-color-0_87: rgba(0,104,119,0.87);--theme-color-0_88: rgba(0,104,119,0.88);--theme-color-0_89: rgba(0,104,119,0.89);--theme-color-0_9: rgba(0,104,119,0.9);--theme-color-0_91: rgba(0,104,119,0.91);--theme-color-0_92: rgba(0,104,119,0.92);--theme-color-0_93: rgba(0,104,119,0.93);--theme-color-0_94: rgba(0,104,119,0.94);--theme-color-0_95: rgba(0,104,119,0.95);--theme-color-0_96: rgba(0,104,119,0.96);--theme-color-0_97: rgba(0,104,119,0.97);--theme-color-0_98: rgba(0,104,119,0.98);--theme-color-0_99: rgba(0,104,119,0.99);--theme-color-1: rgba(0,104,119,1);}
+    </style>
+
+    <link rel="stylesheet" href="http://vghmenus.com/includes/assets/css/icons.css">
+    <link rel="stylesheet" href="http://vghmenus.com/templates/restro-theme/css/color-picker.min.css?ver=6.3.5">
+    <link rel="stylesheet" href="http://vghmenus.com/templates/restro-theme/css/style.css?ver=6.3.5">
+    <link rel="stylesheet" href="http://vghmenus.com/templates/restro-theme/css/color.css?ver=6.3.5">
+    <script src="http://vghmenus.com/templates/restro-theme/js/jquery-3.4.1.min.js">4</script>
+
+    
+    <!-- ===External Code=== -->
+    
+    <!-- ===/External Code=== -->
+<meta name="robots" content="noarchive">
+</head>
+<body class="ltr">
+    <!--[if lt IE 8]>
+    <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+        your browser</a> to improve your experience.
+    </p>
+    <![endif]-->
+    <!-- Wrapper -->
+    <div id="wrapper" class="">
+        <header id="header-container" class="fullwidth">
+                        <!-- Header -->
+            <div id="header">
+                <div class="container">
+                    <!-- Left Side Content -->
+                    <div class="left-side">
+                        <!-- Logo -->
+                        <div id="logo">
+                            <a href="http://vghmenus.com/"><img src="http://vghmenus.com/storage/logo/restro-theme_logo.png" alt="VGHmenus"></a>
+                        </div>
+                    </div>
+                    <!-- Left Side Content / End -->
+                    <!-- Right Side Content / End -->
+                    <div class="right-side">
+                        <!-- User Menu -->
+                        <div class="header-widget">
+
+                                                        <a href="#sign-in-dialog" class="popup-with-zoom-anim button ripple-effect">Join Now</a>
+                                                    </div>
+                                            </div>
+                    <!-- Right Side Content / End -->
+                </div>
+            </div>
+            <!-- Header / End -->
+            <!-- Header Container / End -->
+        </header>
+        <div class="clearfix"></div>
+ 
+
+<div class="hero-section">
+    <div class="container">
+
+        <!-- Intro Headline -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="text-center hero-content">
+                    <img class="lazy-load" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" alt="QR codes for menus"  data-original="http://vghmenus.com/templates/restro-theme/images/QR-codes-for-menus.png">
+
+                    <h1 class="margin-bottom-10">
+                        <strong>QR Codes for Menus</strong>
+                        <br>Contacles Digital Menus
+                    </h1>
+                    <p>Our user-friendly platform makes it easy to upload your menu items and generate a QR code for customers to scan and view your menu.</p>
+                                        <a href="#sign-in-dialog" class="popup-with-zoom-anim button ripple-effect">Join Now</a>
+                                    </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="section padding-top-65 padding-bottom-75">
+    <div class="container">
+        <div class="service">
+            <div class="row align-items-center flex-row-reverse tabs">
+                <div class="col-lg-5">
+                    <div class="service_content tabs-header">
+                        <div class="section_title undefined"><h6>What we do?</h6>
+                            <h2>Innovative Solutions for Developing Customizable QR Digital Menus</h2>
+                        </div>
+                        <p>Our platform allows you to design your own QR codes for menus and choose from multiple QR templates to enhance the overall look and feel of your menu.</p>
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="#tab-1" data-tab-id="1">Create your menu</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#tab-2" data-tab-id="2">Design QR & Download</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#tab-3" data-tab-id="3">Getting Live</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="tabs-content" id="myTabContent">
+                        <div class="tab active" data-tab-id="1">
+                            <div class="service_img"><img src="http://vghmenus.com/templates/restro-theme/images/menu.png" alt="" width="500px"></div>
+                        </div>
+                        <div class="tab" data-tab-id="2">
+                            <div class="service_img"><img src="http://vghmenus.com/templates/restro-theme/images/qrcode-genrate.png" alt="" width="500px"></div>
+                        </div>
+                        <div class="tab" data-tab-id="3">
+                            <div class="service_img"><img src="http://vghmenus.com/templates/restro-theme/images/golive.png" alt="" width="500px"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Section Service End-->
+
+<!-- Testimonials -->
+<div class="section padding-top-65 padding-bottom-55 gray">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <!-- Section Headline -->
+                <div class="section-headline centered margin-top-0 margin-bottom-5">
+                    <h3>Testimonials</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Categories Carousel -->
+    <div class="fullwidth-carousel-container margin-top-20">
+        <div class="testimonial-carousel testimonials">
+            <!-- Item -->
+            
+                <div class="fw-carousel-review">
+                    <div class="testimonial-box">
+                        <div class="testimonial-avatar">
+                            <img src="http://vghmenus.com/storage/testimonials/default_user.png"  alt="Joshua Garcia">
+                        </div>
+                        <div class="testimonial-author">
+                            <h4>Joshua Garcia</h4>
+                            <span>Head Chef/Owner</span>
+                        </div>
+                        <div class="testimonial">I highly recommend VGHmenus to any restaurant looking to modernize their menu. It's user-friendly, efficient, and has helped us increase sales.</div>
+                    </div>
+                </div>
+            
+                <div class="fw-carousel-review">
+                    <div class="testimonial-box">
+                        <div class="testimonial-avatar">
+                            <img src="http://vghmenus.com/storage/testimonials/default_user.png"  alt="Emily Williams">
+                        </div>
+                        <div class="testimonial-author">
+                            <h4>Emily Williams</h4>
+                            <span>General Manager</span>
+                        </div>
+                        <div class="testimonial">Our customers have been raving about the convenience of our QR menu. Thanks to your solution, we have seen an increase in customer satisfaction and a reduction in printing costs.</div>
+                    </div>
+                </div>
+            
+                <div class="fw-carousel-review">
+                    <div class="testimonial-box">
+                        <div class="testimonial-avatar">
+                            <img src="http://vghmenus.com/storage/testimonials/default_user.png"  alt="Michael Brown">
+                        </div>
+                        <div class="testimonial-author">
+                            <h4>Michael Brown</h4>
+                            <span>Owner</span>
+                        </div>
+                        <div class="testimonial">We were hesitant to switch to a digital menu, but your QR menu made the transition seamless. Our staff found it easy to use and our customers love the interactive experience.</div>
+                    </div>
+                </div>
+            
+                <div class="fw-carousel-review">
+                    <div class="testimonial-box">
+                        <div class="testimonial-avatar">
+                            <img src="http://vghmenus.com/storage/testimonials/default_user.png"  alt="Samantha Jones">
+                        </div>
+                        <div class="testimonial-author">
+                            <h4>Samantha Jones</h4>
+                            <span>Manager</span>
+                        </div>
+                        <div class="testimonial">Your QR menu has saved us so much time and money. We used to spend hours updating our menu, now it's done in minutes and we can make updates on the fly.</div>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+    <!-- Categories Carousel / End -->
+</div>
+<!-- Testimonials / End -->
+<!-- Membership Plans -->
+<div class="section padding-top-60 padding-bottom-75">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-xl-12">
+                <!-- Section Headline -->
+                <div class="section-headline centered margin-top-0 margin-bottom-75">
+                    <h3>Subscription Plan</h3>
+                </div>
+            </div>
+
+
+            <div class="col-xl-12">
+                <form name="form1" method="post" action="http://vghmenus.com/membership/changeplan">
+                <div class="billing-cycle-radios margin-bottom-70">
+                                        <div class="radio billed-monthly-radio">
+                        <input id="radio-monthly" name="billed-type" type="radio" value="monthly" checked="">
+                        <label for="radio-monthly"><span class="radio-label"></span> Monthly</label>
+                    </div>
+                                                            <div class="radio billed-yearly-radio">
+                        <input id="radio-yearly" name="billed-type" type="radio" value="yearly">
+                        <label for="radio-yearly"><span class="radio-label"></span> Yearly</label>
+                    </div>
+                                                            <div class="radio billed-lifetime-radio">
+                        <input id="radio-lifetime" name="billed-type" type="radio" value="lifetime">
+                        <label for="radio-lifetime"><span class="radio-label"></span> Lifetime</label>
+                    </div>
+                                    </div>
+                <!-- Pricing Plans Container -->
+                <div class="pricing-plans-container">
+                    
+                    <!-- Plan -->
+                    <div class="pricing-plan ">
+                                        <h3>Starter</h3>
+                                        <div class="pricing-plan-label"><strong>
+                                                        Free
+                                                    </strong></div>
+                                        <div class="pricing-plan-features">
+                        <strong>Features of Starter</strong>
+                        <ul>
+                            <li>2 Menu Categories</li>
+                            <li>4 Menu Items Per Category</li>
+                            <li>400 Scans Per Month</li>
+                            <li>
+                                                                <span class="icon-text yes"><i class="icon-feather-check-circle margin-right-2"></i></span>
+                                                                Allow restaurants to accept orders
+                            </li>
+                            
+                        </ul>
+                    </div>
+                                            <a href="#sign-in-dialog" class="popup-with-zoom-anim button full-width margin-top-20 ripple-effect">Join Now</a>
+                                    </div>
+                
+                    <!-- Plan -->
+                    <div class="pricing-plan  recommended ">
+                     <div class="recommended-badge">Recommended</div>                     <h3>Premium</h3>
+                                                            <div class="pricing-plan-label billed-monthly-label"><strong>&#36;19.99</strong>/ Monthly</div>
+                                                            <div class="pricing-plan-label billed-yearly-label"><strong>&#36;216.00</strong>/ Yearly</div>
+                                                            <div class="pricing-plan-label billed-lifetime-label"><strong>&#36;2,500.00</strong> Lifetime</div>
+                                                            <div class="pricing-plan-features">
+                        <strong>Features of Premium</strong>
+                        <ul>
+                            <li>6 Menu Categories</li>
+                            <li>8 Menu Items Per Category</li>
+                            <li>Unlimited Scans Per Month</li>
+                            <li>
+                                                                <span class="icon-text yes"><i class="icon-feather-check-circle margin-right-2"></i></span>
+                                                                Allow restaurants to accept orders
+                            </li>
+                            
+                        </ul>
+                    </div>
+                                            <a href="#sign-in-dialog" class="popup-with-zoom-anim button full-width margin-top-20 ripple-effect">Join Now</a>
+                                    </div>
+                
+                    <!-- Plan -->
+                    <div class="pricing-plan ">
+                                        <h3>Business Plus</h3>
+                                                            <div class="pricing-plan-label billed-monthly-label"><strong>&#36;250.00</strong>/ Monthly</div>
+                                                            <div class="pricing-plan-label billed-yearly-label"><strong>&#36;2,900.00</strong>/ Yearly</div>
+                                                            <div class="pricing-plan-label billed-lifetime-label"><strong>&#36;4,500.00</strong> Lifetime</div>
+                                                            <div class="pricing-plan-features">
+                        <strong>Features of Business Plus</strong>
+                        <ul>
+                            <li>Unlimited Menu Categories</li>
+                            <li>Unlimited Menu Items Per Category</li>
+                            <li>Unlimited Scans Per Month</li>
+                            <li>
+                                                                <span class="icon-text yes"><i class="icon-feather-check-circle margin-right-2"></i></span>
+                                                                Allow restaurants to accept orders
+                            </li>
+                            
+                        </ul>
+                    </div>
+                                            <a href="#sign-in-dialog" class="popup-with-zoom-anim button full-width margin-top-20 ripple-effect">Join Now</a>
+                                    </div>
+                
+                </div>
+            </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Membership Plans / End-->
+
+<!-- Recent Blog Posts -->
+<div class="section gray padding-top-65 padding-bottom-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <!-- Section Headline -->
+                <div class="section-headline margin-top-0 margin-bottom-45">
+                    <h3>Recent Blog</h3>
+                    <a href="http://vghmenus.com/blog" class="headline-link">View Blog</a>
+                </div>
+
+                <div class="row">
+                    <!-- Blog Post Item -->
+                    
+                    <!-- Blog post Item / End -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- Recent Blog Posts / End -->
+ <div id="footer">
+    <div class="footer-middle-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-5 col-lg-5 col-md-12">
+                    <div class="footer-logo margin-bottom-10">
+                        <img src="http://vghmenus.com/storage/logo/restro-theme_footer_logo.png" alt="">
+                    </div>
+                    <p><h1>거북 목 교정 기구</h1>코지레스트 거북목 일자목 자세교정기 목스트레칭기구 편안히 누워 뒷목을 풀어주세요. 경추건강 완벽케어. 21, 320원. 리뷰 14. G마켓 배송 3, 000원. 쿠팡은 로켓배송-거북목 교정기에 대한 검색결과입니다. 거북목 교정기베게, 경추베개, 자세 교정 밴드, 아이폰13미니케이스, 거북목 교정, 책상의자, <a href="/admin/abgrall.php?q=%EC%8B%9C%EC%95%8C-%EB%A1%9C%EC%A7%80%ED%85%8D" title="시알 로지텍">시알 로지텍</a> JYPLANET. 바른자세교정 목교정 거북목방지 일자목교정 밴드. 최종판매가: 24, 500원; 판매가: 24, 500원; 배송비: 업체 무료배송-도서, 산간지역 추가요금 있음. 본 발명은 스마트기기와 연동하는 거북목 감지장치를 통한 거북목 교정 시스템에 관한 것이다. 보다 상세하게는 거북목 감지장치에서 목 둘레부의 수용부에 내장된. 일자목교정 거북목 일자목 교정목스트레칭기구 홈트기구 일자목 거북목 바른자세 목디스크교정 목안마넥픽스 목견인기일자목 통증디스크거북목 교정기일자목 거북목. 저는 몇년전에 목 디스크로 수술을 받고서 거북목에 대해서 많은 관심을 갖게 됐습니다. 아무리 목 디스크 수술을 했어도 근접한 부위나 다시 또 재발. 카이로넥은 일상생활의 잘못된 습관이나 반복된 행동으로 변형된 일자목 및 거북목으로 인한 통증을 완화시켜 줄 수 있는 생체 역학적 거북목교정운동기구. 도매친구 거북목 자세교정 목보호대. 마사지기구 재활보조용품 운동용품 스포츠. 스포츠잡화 보호용품 요가필라테스; 아웃도어레저 캠핑용품. 김헌 부원장은 거북목 교정기는 말 그대로 비정상적인 척추를 교정하기 위한 장치라며 제대로 교정된다면 거북목증후군으로 인한 목뼈와 어깨 통증이. 언제 어디서나 계속 찰 수 있는 거북목 교정기 일주일 리뷰 바른 자세 습관 만들어 거북목 교정하는 올리고내리고 본 콘텐츠는 제품에 대한 상세한. TV를 보니 거북목 교정기를 하는 연예인이 있던데, 치료 효과가 있나요. A: 오랫동안 같은 자세로 컴퓨터를 들여다보는 현대인들은 목, 어깨 부근의 통증. <a href="/admin/abgrall.php?q=%ED%97%88%EB%B8%8C-%EB%8F%99%EC%82%B0" title="허브 동산">허브 동산</a> H무배 목보호대목지지대 목스트레칭 목밴드입니다. 휴대폰, 공부 많이 하시는 분들 tv보실때나 쉬실때 사용하시면 좋습니다. 거북목 교정 싸게 합시다 제품 상세설명. 바른자세 교정밴드 어깨 거북목교정 굽은자세 교정기. 9, 200 에스이엔몰 목 보호대 지지대 거북 교정 스트레칭 밴드, 18900원, 골반교정척추측만증거북목OX다리턱관절굽은등어깨무릎목, 허리디스크 전문 손인수 원장님의 체형 필라테스 직강! 컴퓨터는 물론 스마트폰, 태블릿PC 등 IT제품과 스마트기기 사용이 보편화되면서 현대인들에게서는 거북목 증후군이나 목 디스크 등 목 관련 통증을. 굿프렌드 3단 목 견인기 거북목교정 GOOD-A3 통풍 목 고정 보호대 밴드 넥서포터 목스트레칭기구 바른목 바른 자세교정 닥터넥 목 스트레칭기 바른자세 견인 교정기. 카이로케어 목교정기구입니다 선물하려고 두개 구입후 하나만 사용하게되어 또다른하나는 새생품 박스채 그대로 판매합니다 처음 받았을때 구성품확인만 한 사용하지. 실시간 자세측정 교정기 개발사 나무가 일본 최대 크라우드 펀딩 플랫폼 마쿠아케에 론칭했다. 스타트업 지원 전문기관 K-ICT 본투글로벌센터 멤버사. 따라서 거북목 증상이 있다면 교정과 치료가 필요하다. 하이닥 정형외과 상. 거북목 증후군 교정기로 치료 효과를 볼 수 있나요? H 자세교정 목보호대거북목교정 견인기 목디스크 바른자세밴드 굽은등 거북목 교정기구. 최적가 9, 080 원 판매가 9, 650 원 할인내역. 할인내역. 판매가: 9, 650원. <a href="/admin/abgrall.php?q=%ED%97%A4%EC%96%B4-%EC%8B%9D%EC%B4%88" title="헤어 식초">헤어 식초</a> 평소 구부정하고 잘못된 자세를 교정해주는 스트레칭 요가는. 평소에 거북목이나 굽은 등처럼 자세가 안 좋으신 분들은 더 큰 효과를 보실 수 있을. 어깨펴 어린이 바른자세 교정 밴드 굽은등 거북목 교정기. 판매자 평점 별5개 중 4 0개. 리뷰 12건. 거북목 교정기 목 스트레칭 기구 일자 자세 교정기 베개. 목교정기; 거북목교정; 척추측만증; 오다리교정기; 척추; 허리견인기; 경추견인; 등펴는기구; 목스트레칭; 허리디스크; 목디스크; 요통; 일자목; 굽은어깨; 굽은등. 등통증 거북목교정기 목디스크증상 자세교정밴드L사이즈 파. 15, 787원. 롯데온 무료배송 찜하기. 요약정보 구매정보. 등록일: 2022 07. 추가정보 펼치기.</p>
+                </div>
+                <div class="col-xl-1 col-lg-1">
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-4">
+                    <div class="footer-links">
+                        <h3>My Account</h3>
+                        <ul>
+                                                        <li><a href="http://vghmenus.com/login">Login</a></li>
+                            <li><a href="http://vghmenus.com/signup">Register</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-4">
+                    <div class="footer-links">
+                        <h3>Helpful Links</h3>
+                        <ul>
+                            <li><a href="http://vghmenus.com/faq">FAQ</a></li>
+                            <li><a href="http://vghmenus.com/feedback">Feedback</a></li>
+                            <li><a href="http://vghmenus.com/report">Report</a></li>
+                            <li><a href="http://vghmenus.com/contact">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-4">
+                    <div class="footer-links">
+                        <h3>Information</h3>
+                        <ul>
+                                                        <li><a href="http://vghmenus.com/blog">Blog</a></li>
+                                                                                    <li><a href="http://vghmenus.com/testimonials">Testimonials</a></li>
+                                                        
+                                <li><a href="http://vghmenus.com/page/privacy-policy">Privacy Policy</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="footer-rows-left">
+                        <div class="footer-row">
+                            <span class="footer-copyright-text">© 2023 VGHmenus, All right reserved</span>
+                        </div>
+                    </div>
+                    <div class="footer-rows-right">
+                        <div class="footer-row">
+                            <ul class="footer-social-links">
+                                                                <li>
+                                    <a href="https://www.facebook.com/" target="_blank" rel="nofollow">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                </li>
+                                                                                                <li>
+                                    <a href="https://www.twitter.com/" target="_blank" rel="nofollow">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </li>
+                                                                                                <li>
+                                    <a href="https://instagram.com" target="_blank" rel="nofollow">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                </li>
+                                                                                                <li>
+                                    <a href="https://www.linkedin.com/" target="_blank" rel="nofollow">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </li>
+                                                                                                                                <li>
+                                    <a href="https://www.youtube.com/" target="_blank" rel="nofollow">
+                                        <i class="fa fa-youtube-play"></i>
+                                    </a>
+                                </li>
+                                                            </ul>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+</div>
+
+
+<!-- Cookie constent -->
+<div class="cookieConsentContainer">
+    <div class="cookieTitle">
+        <h3>Cookies</h3>
+    </div>
+    <div class="cookieDesc">
+        <p>This website uses cookies to ensure you get the best experience on our website.
+                    </p>
+    </div>
+    <div class="cookieButton">
+        <a href="javascript:void(0)" class="button cookieAcceptButton">Accept</a>
+    </div>
+</div>
+
+<!-- Sign In Popup -->
+<div id="sign-in-dialog" class="zoom-anim-dialog mfp-hide dialog-with-tabs popup-dialog">
+    <ul class="popup-tabs-nav">
+        <li><a href="#login">Login</a></li>
+    </ul>
+    <div class="popup-tabs-container">
+        <div class="popup-tab-content" id="login">
+            <div class="welcome-text">
+                <h3>Welcome Back!</h3>
+                <span>Don't have an account? <a href="http://vghmenus.com/signup">Sign Up Now!</a></span>
+            </div>
+                        <form id="login-form" method="post" action="http://vghmenus.com/login?ref=/">
+                <div id="login-status" class="notification error" style="display:none"></div>
+                <div class="input-with-icon-left">
+                    <i class="la la-user"></i>
+                    <input type="text" class="input-text with-border" name="username" id="username"
+                           placeholder="Username / Email Address" required/>
+                </div>
+
+                <div class="input-with-icon-left">
+                    <i class="la la-unlock"></i>
+                    <input type="password" class="input-text with-border" name="password" id="password"
+                           placeholder="Password" required/>
+                </div>
+                <a href="http://vghmenus.com/login?fstart=1" class="forgot-password">Forgot Password?</a>
+                <button id="login-button" class="button full-width button-sliding-icon ripple-effect" type="submit"
+                        name="submit">Login <i class="icon-feather-arrow-right"></i></button>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+<script>9
+    var session_uname = "";
+    var session_uid = "";
+    var session_img = "{USERPIC}";
+    // Language Var
+    var LANG_ERROR_TRY_AGAIN = "Error: Please try again.";
+    var LANG_LOGGED_IN_SUCCESS = "Logged in successfully. Redirecting...";
+    var LANG_ERROR = "Error";
+    var LANG_CANCEL = "Cancel";
+    var LANG_DELETED = "Deleted";
+    var LANG_ARE_YOU_SURE = "Are you sure?";
+    var LANG_YOU_WANT_DELETE = "{LANG_YOU_WANT_DELETE}";
+    var LANG_YES_DELETE = "Yes, delete it";
+    var LANG_SHOW = "Show";
+    var LANG_HIDE = "Hide";
+    var LANG_HIDDEN = "Hidden";
+
+    var LANG_TYPE_A_MESSAGE = "Type a message";
+    var LANG_ADD_FILES_TEXT = "{LANG_ADD_FILES_TEXT}";
+    var LANG_JUST_NOW = "Just now";
+    var LANG_PREVIEW = "Preview";
+    var LANG_SEND = "Send";
+    var LANG_FILENAME = "{LANG_FILENAME}";
+    var LANG_STATUS = "Status";
+    var LANG_SIZE = "Size";
+    var LANG_DRAG_FILES_HERE = "{LANG_DRAG_FILES_HERE}";
+    var LANG_STOP_UPLOAD = "{LANG_STOP_UPLOAD}";
+    var LANG_ADD_FILES = "{LANG_ADD_FILES}";
+</script>
+<!-- Scripts
+================================================== -->
+<link rel="stylesheet" href="http://vghmenus.com/templates/restro-theme/css/alertify.css?ver=6.3.5" />
+<script src="http://vghmenus.com/templates/restro-theme/js/alertify.min.js?ver=6.3.5">0</script>
+
+<script src="http://vghmenus.com/templates/restro-theme/js/chosen.min.js">2</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/jquery.lazyload.min.js">1</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/tippy.all.min.js">8</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/simplebar.min.js">2</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/bootstrap-slider.min.js">0</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/bootstrap-select.min.js">8</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/snackbar.js">9</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/counterup.min.js">1</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/magnific-popup.min.js">9</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/slick.min.js">1</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/jquery.cookie.min.js?ver=6.3.5">0</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/user-ajax.js?ver=6.3.5">0</script>
+<script src="http://vghmenus.com/templates/restro-theme/js/custom.js?ver=6.3.5">9</script>
+
+<script>2
+    /* THIS PORTION OF CODE IS ONLY EXECUTED WHEN THE USER THE LANGUAGE(CLIENT-SIDE) */
+    $(function () {
+        $('.language-switcher').on('click', '.dropdown-menu li', function (e) {
+            e.preventDefault();
+            var lang = $(this).data('lang');
+            if (lang != null) {
+                var res = lang.substr(0, 2);
+                $('#selected_lang').html(res.toUpperCase());
+                $.cookie('Quick_lang', lang, {path: '/'});
+                location.reload();
+            }
+        });
+    });
+    $(document).ready(function () {
+        var lang = $.cookie('Quick_lang');
+        if (lang != null) {
+            var res = lang.substr(0, 2);
+            $('#selected_lang').html(res.toUpperCase());
+        }
+    });
+</script>
+</body>
+</html>
+ 
+ 
